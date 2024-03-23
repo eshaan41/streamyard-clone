@@ -1,0 +1,3 @@
+Study about RTMP from given link in bio.
+TCP/UDP related to RTC (video transfer thing).
+what does type changing to module does.
